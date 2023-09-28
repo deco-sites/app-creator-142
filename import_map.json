@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/app-creator-142/": "./",
+
     "deco-sites/boilerplaten1/": "./",
     "deco-sites/fashion/": "./",
     "$store/": "./",
